@@ -1,0 +1,56 @@
+[
+  {
+    "page": 1,
+    "variety": "Chardonnay",
+    "steps": [
+      {
+        "step": 1,
+        "output": "chardonnay\nE A R L Y B U D D I N G\nE A R L Y R I P E N I N G\nFR: Burgundy, N Beaujolais, Jura, IGP Pays d'Oc\nDE, AT, GR, IT (NE, C, Sicily); ES (Navarra, Somontano, Catalunya); PT\nUSA: California (more coastal AVAs); Oregon; Wash. State; NY State\nCA, CL, AR, SA, AUS (most regions), NZ (Gisborne, Hawke's Bay,\nMarlborough, ...)\nspring frost\nmillerandage\npowdery mildew\ngrey rot\nbacterial diseases (pierce's,\ngrapevine yellows)\nwide range of styles and quality lvls\nunoaked, fruity\nfermented / aged in oak, MLF\nin cool climates:\ngreen fruit (apple, pear), citrus\nfruit (lime, lemon); wet stones;\nin warm climates:\nripe citrus, melon, stone fruit,\ntropical fruit\nversatile variety, suited to a range of soils and climates\nmany top-quality examples: from limestone/clay\nsoils, e.g. Burgundy\ncan produce relatively high yields without loss of quality\nHAZARDS STYLE\nREGIONS\nOTHER"
+      },
+      {
+        "step": 2,
+        "output": {
+          "region": "FR: Burgundy, N Beaujolais, Jura, IGP Pays d'Oc\nDE, AT, GR, IT (NE, C, Sicily); ES (Navarra, Somontano, Catalunya); PT\nUSA: California (more coastal AVAs); Oregon; Wash. State; NY State\nCA, CL, AR, SA, AUS (most regions), NZ (Gisborne, Hawke's Bay, Marlborough, ...)",
+          "style": "wide range of styles and quality levels\nunoaked, fruity\nfermented / aged in oak, MLF\nin cool climates: green fruit (apple, pear), citrus fruit (lime, lemon); wet stones\nin warm climates: ripe citrus, melon, stone fruit, tropical fruit",
+          "growing": "EARLY BUDDING\nEARLY RIPENING\nHazards: spring frost, millerandage, powdery mildew, grey rot, bacterial diseases (Pierce's disease, grapevine yellows)",
+          "other": "versatile variety, suited to a range of soils and climates\nmany top-quality examples from limestone/clay soils, e.g. Burgundy\ncan produce relatively high yields without loss of quality"
+        }
+      },
+      {
+        "step": 3,
+        "output": "Chardonnay is one of the world's most celebrated and versatile white grape varieties, cultivated across an impressive range of wine regions worldwide. In France, it thrives in prestigious areas including Burgundy, Northern Beaujolais, Jura, and the broader IGP Pays d'Oc designation. The grape has also found successful homes throughout Europe in Germany, Austria, Greece, Italy (particularly in the northeast, central regions, and Sicily), Spain (notably Navarra, Somontano, and Catalunya), and Portugal. In the United States, Chardonnay flourishes in California's cooler coastal appellations, Oregon, Washington State, and New York State. The Southern Hemisphere has embraced this variety enthusiastically, with notable plantings in Canada, Chile, Argentina, South Africa, most Australian regions, and New Zealand (especially Gisborne, Hawke's Bay, and Marlborough). As a vine, Chardonnay is characterized by early budding and early ripening, which unfortunately makes it vulnerable to spring frosts. Growers must also contend with hazards such as millerandage (uneven berry development resulting in clusters with berries of varying sizes), powdery mildew, grey rot, and bacterial diseases including Pierce's disease and grapevine yellows. The wines produced from Chardonnay span an extraordinary range of styles and quality levels. Winemakers may craft unoaked, fresh and fruity expressions, or choose to ferment and age the wine in oak barrels with malolactic fermentation (MLF, a secondary fermentation that converts sharp malic acid to softer lactic acid, creating a creamier texture). In cooler climates, expect flavors of green fruits like apple and pear, citrus notes of lime and lemon, and a distinctive wet stone minerality. Warmer regions yield wines with ripe citrus, melon, stone fruits such as peach, and tropical fruit characters. Chardonnay's greatest strength lies in its remarkable adaptability—it thrives in diverse soils and climates while maintaining quality even at relatively high yields. The most acclaimed examples often originate from limestone and clay soils, with Burgundy standing as the benchmark for world-class Chardonnay production."
+      },
+      {
+        "step": 4,
+        "output": "霞多丽是世界上最负盛名且最具多样性的白葡萄品种之一，在全球众多葡萄酒产区广泛种植。在法国，霞多丽在勃艮第、北博若莱、汝拉以及更广泛的奥克地区餐酒（IGP Pays d'Oc）产区表现出色。这一品种在欧洲其他国家同样取得了成功，包括德国、奥地利、希腊、意大利（尤其是东北部、中部和西西里岛）、西班牙（纳瓦拉、索蒙塔诺和加泰罗尼亚尤为突出）以及葡萄牙。在美国，霞多丽在加利福尼亚较凉爽的沿海产区、俄勒冈州、华盛顿州和纽约州蓬勃发展。南半球也热情拥抱了这一品种，加拿大、智利、阿根廷、南非、澳大利亚大部分产区以及新西兰（尤其是吉斯本、霍克斯湾和马尔堡）都有大量种植。从葡萄藤的特性来看，霞多丽具有发芽早、成熟早的特点，这不幸使其容易受到春季霜冻的侵害。种植者还必须应对其他威胁，如小果症（果粒发育不均导致果穗中出现大小不一的果粒）、白粉病、灰霉病以及细菌性病害，包括皮尔斯病和葡萄黄化病。由霞多丽酿造的葡萄酒涵盖了极其广泛的风格和品质等级。酿酒师可以酿造不经橡木桶、清新果香型的葡萄酒，也可以选择在橡木桶中发酵陈酿，并进行苹果酸-乳酸发酵（MLF，一种将尖锐的苹果酸转化为柔和乳酸的二次发酵过程，使酒体更加圆润醇厚）。在凉爽气候下，可以品尝到青苹果、梨等绿色水果的风味，青柠和柠檬等柑橘香气，以及独特的湿石头矿物质感。温暖产区则呈现出成熟柑橘、甜瓜、桃子等核果以及热带水果的特征。霞多丽最大的优势在于其非凡的适应性——它能在各种土壤和气候条件下茁壮成长，即使产量相对较高也能保持优异品质。最受赞誉的霞多丽通常产自石灰石和粘土土壤，其中勃艮第被公认为世界顶级霞多丽的标杆产区。"
+      }
+    ]
+  },
+  {
+    "page": 2,
+    "variety": "Pinot Gris / Pinot Grigio",
+    "steps": [
+      {
+        "step": 1,
+        "output": "pinot gris /\npinot grigio\nE A R L Y B U D D I N G\nE A R L Y R I P E N I N G\nAlsace, FR\nGermany: Grauburgunder (Rheinhessen, Pfalz, Baden)\nNE Italy: Trentino, Friuli, Veneto\nUSA: California, Oregon, Finger Lakes\nBritish Columbia, CA\nAustralia: VIC, NSW, TAS\nNew Zealand\nspring frosts\ndowny mildew\nbotrytis bunch rot\nAlsace style:\nM intensity peach, apple\nfull-bodied, M to high alcohol\nM acidity\nbest:\nrich, oily texture\nage: honey, smoked\nfrom dry to sweet\nItalian 'Pinot Grigio' style:\nlight to M- int. apple and lemon\nlight to M- body; M alcohol\ndry, M+ acidity\nmoderately yielding\ncan rapidly accumulate sugar and\ndrop acidity => picking dates!\nHAZARDS STYLE\nREGIONS\nOTHER"
+      },
+      {
+        "step": 2,
+        "output": {
+          "region": "Alsace, FR\nGermany: Grauburgunder (Rheinhessen, Pfalz, Baden)\nNE Italy: Trentino, Friuli, Veneto\nUSA: California, Oregon, Finger Lakes\nBritish Columbia, CA\nAustralia: VIC, NSW, TAS\nNew Zealand",
+          "style": "Alsace style: medium intensity peach and apple; full-bodied, medium to high alcohol; medium acidity; best examples have rich, oily texture; with age develops honey and smoked notes; ranges from dry to sweet\nItalian 'Pinot Grigio' style: light to medium-minus intensity apple and lemon; light to medium-minus body; medium alcohol; dry, medium-plus acidity",
+          "growing": "EARLY BUDDING\nEARLY RIPENING\nHazards: spring frosts, downy mildew, botrytis bunch rot",
+          "other": "moderately yielding\ncan rapidly accumulate sugar and drop acidity, making picking date decisions critical"
+        }
+      },
+      {
+        "step": 3,
+        "output": "Pinot Gris and Pinot Grigio are actually the same grape variety, known by different names depending on where it is grown and the style of wine produced. This versatile white grape is cultivated in several key wine regions around the world. In France, the Alsace region is renowned for producing exceptional examples, while Germany grows it under the name Grauburgunder, particularly in the Rheinhessen, Pfalz, and Baden regions. Northeastern Italy—including Trentino, Friuli, and Veneto—is famous for its lighter Pinot Grigio style. The variety has also established itself successfully in the United States (California, Oregon, and the Finger Lakes region of New York), British Columbia in Canada, Australia (Victoria, New South Wales, and Tasmania), and New Zealand. Like many early-ripening varieties, Pinot Gris features early budding and early ripening characteristics, which expose it to the risk of spring frosts. Growers must also manage threats from downy mildew and botrytis bunch rot (a fungal disease that can devastate grape clusters). The grape presents two distinctly different wine styles. The Alsace style typically offers medium-intensity flavors of peach and apple, with a full-bodied character and medium to high alcohol levels. The best examples develop a rich, oily texture, and with age, they can acquire complex honey and smoky notes. These wines range from completely dry to lusciously sweet. In contrast, the Italian Pinot Grigio style is crafted for freshness and easy drinking, featuring light to medium-minus intensity flavors of apple and lemon, a lighter body, moderate alcohol, dry finish, and refreshing medium-plus acidity. An important consideration for growers is that this variety can rapidly accumulate sugar while simultaneously losing acidity, making the precise timing of harvest a critical decision for achieving the desired wine style."
+      },
+      {
+        "step": 4,
+        "output": "灰皮诺（Pinot Gris）和意大利灰皮诺（Pinot Grigio）实际上是同一个葡萄品种，只是根据种植地区和酿造风格的不同而采用不同的名称。这一多才多艺的白葡萄品种在全球多个重要葡萄酒产区广泛种植。在法国，阿尔萨斯产区以出产卓越的灰皮诺而闻名；在德国，该品种被称为「灰色勃艮第」（Grauburgunder），主要种植于莱茵黑森、法尔茨和巴登产区。意大利东北部——包括特伦蒂诺、弗留利和威尼托——则以其清爽的Pinot Grigio风格著称。这一品种还在美国（加利福尼亚、俄勒冈和纽约州的手指湖产区）、加拿大的不列颠哥伦比亚省、澳大利亚（维多利亚州、新南威尔士州和塔斯马尼亚）以及新西兰成功扎根。与许多早熟品种一样，灰皮诺具有发芽早、成熟早的特性，这使其面临春季霜冻的风险。种植者还必须防范霜霉病和灰霉病（一种可能严重损害葡萄果穗的真菌性病害）的威胁。这一品种呈现出两种截然不同的葡萄酒风格。阿尔萨斯风格通常展现中等强度的桃子和苹果风味，酒体饱满，酒精度中等偏高。最优质的酒款会发展出丰富油润的质感，陈年后可呈现复杂的蜂蜜和烟熏气息。这类葡萄酒从完全干型到浓郁甜型都有涵盖。相比之下，意大利Pinot Grigio风格追求清新易饮，展现轻盈至中等偏弱的苹果和柠檬风味，酒体较轻，酒精度适中，口感干爽，酸度清新活泼（中等偏高）。对于种植者而言，一个重要的考量是这一品种会迅速积累糖分同时流失酸度，因此精确把握采摘时机对于酿造理想风格的葡萄酒至关重要。"
+      }
+    ]
+  }
+]
